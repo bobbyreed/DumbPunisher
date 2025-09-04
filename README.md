@@ -6,3 +6,7 @@ Punishes humans for making bad decisions - a website
 
 - global warming
 - recycling
+
+```javascript
+Code goes here
+```
