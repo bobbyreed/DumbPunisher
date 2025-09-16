@@ -8,5 +8,8 @@ Punishes humans for making bad decisions - a website
 - recycling
 
 ```javascript
-Code goes here
+const mlmTrap = {
+    mark = target
+    strategy = chooseByWeakness(mark);
+}
 ```
