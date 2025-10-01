@@ -1,0 +1,33 @@
+*::before
+::after{
+    box-sizing:border-box;
+}
+.card {
+    width: 200px;
+    background-color: rgb(42, 138, 195);
+    color: white;
+    border-radius: 5%;
+    border:5px solid black;
+    font-family:'Courier New', Courier, monospace;
+    margin: auto;
+}
+
+.card.two{
+    box-sizing: border-box;
+    border-radius: 20%;
+    border-style:solid;
+    background-color: brown;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+.card h3 {
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.card img {
+    padding: 10px 60px;
+}
