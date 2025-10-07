@@ -2,6 +2,21 @@
 ::after{
     box-sizing:border-box;
 }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+.nav{
+    justify-items: center;
+
+}
+
+.nav a{
+    color: white;
+}
 .card {
     width: 200px;
     background-color: rgb(42, 138, 195);
